@@ -3,7 +3,7 @@ layout: post
 title:  "Horse cuddling"
 subtitle:  "We cuddle horses because we love them"
 date:   2018-02-07 19:40:47 +0100
-poster: "assets/img/synergy/shutterstock_1095093683.jpg"
+poster: "/assets/img/synergy/shutterstock_1095093683.jpg"
 ---
 
 Horses!

@@ -3,7 +3,7 @@ layout: post
 title:  "Boarding"
 subtitle:  "Boarding services"
 date:   2018-02-07 18:40:47 +0100
-poster: "assets/img/synergy/shutterstock_453308077.jpg"
+poster: "/assets/img/synergy/shutterstock_453308077.jpg"
 ---
 
 Here is some information about our boarding services. We take only horses, not gophers or capybaras.
