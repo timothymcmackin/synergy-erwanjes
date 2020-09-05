@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Another project"
-subtitle:  "Get him boy, get him"
+title:  "Distilling yoga"
+subtitle:  "Namaste prost"
 date:   2018-02-07 20:40:47 +0100
-poster: "portfolio-3.jpg"
+poster: "synergy/shutterstock_514805323.jpg"
 ---
+
+In a first, we offer distilling classes made mellow by the addition of restorative yoga. The classes taste amazing!
 
 Etiam nec nisi magna. Maecenas vel pulvinar risus. Aliquam erat volutpat. Etiam nec nibh at tortor faucibus venenatis vel eget sapien. Donec iaculis vulputate justo, vel laoreet sem viverra a. Morbi vel arcu ante. Cras at magna eget purus pharetra lobortis.
 

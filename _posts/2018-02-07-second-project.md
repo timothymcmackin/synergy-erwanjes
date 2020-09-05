@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Second project"
-subtitle:  "What colour was Henry IV white horse?"
+title:  "Horse cuddling"
+subtitle:  "We cuddle horses because we love them"
 date:   2018-02-07 19:40:47 +0100
-poster: "portfolio-2.jpg"
+poster: "synergy/shutterstock_1095093683.jpg"
 ---
+
+Horses!
 
 Etiam nec nisi magna. Maecenas vel pulvinar risus. Aliquam erat volutpat. Etiam nec nibh at tortor faucibus venenatis vel eget sapien. Donec iaculis vulputate justo, vel laoreet sem viverra a. Morbi vel arcu ante. Cras at magna eget purus pharetra lobortis.
 

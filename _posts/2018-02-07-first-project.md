@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "First project"
-subtitle:  "What is your first post ?"
+title:  "Boarding"
+subtitle:  "Boarding services"
 date:   2018-02-07 18:40:47 +0100
-poster: "portfolio-1.jpg"
+poster: "synergy/shutterstock_453308077.jpg"
 ---
+
+Here is some information about our boarding services. We take only horses, not gophers or capybaras.
 
 Etiam nec nisi magna. Maecenas vel pulvinar risus. Aliquam erat volutpat. Etiam nec nibh at tortor faucibus venenatis vel eget sapien. Donec iaculis vulputate justo, vel laoreet sem viverra a. Morbi vel arcu ante. Cras at magna eget purus pharetra lobortis.
 
