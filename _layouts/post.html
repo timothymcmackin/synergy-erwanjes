@@ -15,7 +15,7 @@
       <div class="lg-10">
         <div class="poster">
           {% if page.poster %}    
-          <img class="img-fluid" width="70%" src="{{ "assets/img/" | append:page.poster | relative_url }}" />
+          <img class="img-fluid" width="70%" src="{{ page.poster | relative_url }}" />
           {% endif %}
         </div>
       </div>
