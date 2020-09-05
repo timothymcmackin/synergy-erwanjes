@@ -3,7 +3,7 @@ layout: post
 title:  "Distilling yoga"
 subtitle:  "Namaste prost"
 date:   2018-02-07 20:40:47 +0100
-poster: "synergy/shutterstock_514805323.jpg"
+poster: "assets/img/synergy/shutterstock_514805323.jpg"
 ---
 
 In a first, we offer distilling classes made mellow by the addition of restorative yoga. The classes taste amazing!

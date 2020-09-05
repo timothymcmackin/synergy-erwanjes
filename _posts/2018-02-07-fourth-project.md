@@ -3,7 +3,7 @@ layout: post
 title:  "Training"
 subtitle:  "Dressage and lungeing training for horses"
 date:   2018-02-07 21:40:47 +0100
-poster: "synergy/shutterstock_102368917.jpg"
+poster: "assets/img/synergy/shutterstock_102368917.jpg"
 ---
 
 We train horses so you can have amazing rides without the work!

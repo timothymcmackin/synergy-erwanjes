@@ -129,7 +129,7 @@
                     <p class="mb-0">{{ post.subtitle | escape }}</p>
                   </span>
                 </span>
-                <img class="img-fluid" src="assets/img/{{ post.poster | relative_url }}" alt="">
+                <img class="img-fluid" src="{{ post.poster | relative_url }}" alt="">
               </a>
             </div>
           {% endfor %}
